@@ -1,0 +1,158 @@
+{
+  "books": [
+    {
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami",
+      "published": 1987,
+      "genre": "Coming of age, Romance",
+      "read": "Y"
+    },
+    {
+      "title": "1Q84",
+      "author": "Haruki Murakami",
+      "published": 2009,
+      "genre": "Alternate history, parallel worlds",
+      "read": "Y"
+    },
+    {
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "published": 2002,
+      "genre": "Novel, Magical Realism, Fantasy Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "published": 2002,
+      "genre": "Novel, Magical Realism, Fantasy Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "The Wind-Up Bird Chronicle",
+      "author": "Haruki Murakami",
+      "published": 1994,
+      "genre": "Novel, Magical Realism, Fantasy Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "Colorless Tsukuru Tazaki",
+      "author": "Haruki Murakami",
+      "published": 2013,
+      "genre": "Realist novel, Bildungsroman",
+      "read": "Y"
+    },
+    {
+      "title": "The Temple of the Golden Pavilion",
+      "author": "Yukio Mishima",
+      "published": 1956,
+      "genre": "Novel, Psychological Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "Spring Snow",
+      "author": "Yukio Mishima",
+      "published": 1969,
+      "genre": "Novel, Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "Spring Snow",
+      "author": "Yasunari Kawabata",
+      "published": 1948,
+      "genre": "Novel",
+      "read": "Y"
+    },
+    {
+      "title": "No Longer Human",
+      "author": "Osamu Dazai",
+      "published": 1948,
+      "genre": "Novel",
+      "read": "Y"
+    },
+    {
+      "title": "Kokoro",
+      "author": "Natsume Soseki",
+      "published": 1914,
+      "genre": "Novel, Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "I Am a Cat",
+      "author": "Natsume Soseki",
+      "published": 1906,
+      "genre": "Novel, Satire",
+      "read": "Y"
+    },
+    {
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "published": 1008,
+      "genre": "Novel, Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "Tokyo Ueno Station",
+      "author": "Miri Yu",
+      "published": 2014,
+      "genre": "Ghost story, Domestic Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "The Uninhabitable Earth",
+      "author": "David Wallace-Wells",
+      "published": 2019,
+      "genre": "Non-Fiction",
+      "read": "Y"
+    },
+    {
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "published": 1957,
+      "genre": "Beat",
+      "read": "Y"
+    },
+    {
+      "title": "The Dharma Bums",
+      "author": "Jack Kerouac",
+      "published": 1958,
+      "genre": "Novel, Beat Literature",
+      "read": "Y"
+    },
+    {
+      "title": "Little Women",
+      "author": "Louuisa May Alcott",
+      "published": 1868,
+      "genre": "Coming of Age",
+      "read": "Y"
+    },
+    {
+      "title": "Modern Man in Search of a Soul",
+      "author": "Carl Jung",
+      "published": 1933,
+      "genre": "Essay",
+      "read": "Y"
+    },
+    {
+      "title": "Steppenwolf",
+      "author": "Herman Hesse",
+      "published": 1927,
+      "genre": "Autobiographical, novel, existential",
+      "read": "Y"
+    },
+    {
+      "title": "Demian",
+      "author": "Hermann Hesse",
+      "published": 1919,
+      "genre": "Novel, Fiction, Künstlerroman",
+      "read": "Y"
+    },
+    {
+      "title": "Consider the Lobster and Other Essays",
+      "author": "David Foster Wallace",
+      "published": 2005,
+      "genre": "Essay",
+      "read": "Y"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "movies": [
+    {
+      "title": "The Apartment",
+      "director": "Billy Wilder",
+      "release": 1960,
+      "genre": "Romance/Comedy",
+      "watched": "Y"
+    },
+    {
+      "title": "Some Like It Hot",
+      "director": "Billy Wilder",
+      "release": 1959,
+      "genre": "Comedy/Romance",
+      "watched": "Y"
+    },
+    {
+      "title": "Ghost Dog",
+      "director": "Jim Jarmusch",
+      "release": 1999,
+      "genre": "Crime/Drama",
+      "watched": "Y"
+    },
+    {
+      "title": "Stranger Than Paradise",
+      "director": "Jim Jarmusch",
+      "release": 1984,
+      "genre": "Comedy/Road",
+      "watched": "Y"
+    },
+    {
+      "title": "Down By Law",
+      "director": "Jim Jarmusch",
+      "release": 1986,
+      "genre": "Comedy/Indie film",
+      "watched": "Y"
+    },
+    {
+      "title": "Do the Right Thing",
+      "director": "Spike Lee",
+      "release": 1989,
+      "genre": "Drama/Comedy-drama",
+      "watched": "Y"
+    },
+    {
+      "title": "Da 5 Bloods",
+      "director": "Spike Lee",
+      "release": 2020,
+      "genre": "War/Drama",
+      "watched": "Y"
+    },
+    {
+      "title": "She's Gotta Have It",
+      "director": "Spike Lee",
+      "release": 1986,
+      "genre": "Romance/Comedy",
+      "watched": "Y"
+    },
+    {
+      "title": "Paterson",
+      "director": "Jim Jarmusch",
+      "release": 2016,
+      "genre": "Drama/Romance",
+      "watched": "Y"
+    },
+    {
+      "title": "Paris, Texas",
+      "director": "Wim Wenders",
+      "release": 1984,
+      "genre": "Drama/Romance",
+      "watched": "Y"
+    },
+    {
+      "title": "Spirit of the Beehive",
+      "director": "Victor Erice",
+      "release": 1985,
+      "genre": "Drama/Fantasy",
+      "watched": "Y"
+    },
+    {
+      "title": "Tokyo Story",
+      "director": "Yasujirō Ozu",
+      "release": 1953,
+      "genre": "Drama",
+      "watched": "Y"
+    },
+    {
+      "title": "Rashomon",
+      "director": "Akira Kurosawa",
+      "release": 1950,
+      "genre": "Drama/Crime",
+      "watched": "Y"
+    },
+    {
+      "title": "Tampopo",
+      "director": "Juzo Itami",
+      "release": 1985,
+      "genre": "Comedy/Western",
+      "watched": "Y"
+    },
+    {
+      "title": "Cat on a Hot Tin Roof",
+      "director": "Richard Brooks",
+      "release": 1958,
+      "genre": "Drama/LGBT",
+      "watched": "Y"
+    }
+  ]
+}

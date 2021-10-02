@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8" />
+  <title>Page Title</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="" />
+  <style></style>
+  <script src=""></script>
+  <body>
+    <div class="">
+        Add a media entry by filling out the fields below:
+        <hr/>
+        <form action="/add-media" method="POST">
+          <input placeholder="Album, Book, Movie" name="media_type"/>
+          <!-- <select id="mediaType">  
+          <option value = "Choose Media" selected> Choose Media   
+          </option> 
+          <option value = "Album"> Album   
+          </option>  
+          <option value = "Book"> Book   
+          </option>  
+          <option value = "Movie"> Movie  
+          </option>  
+          </select>   -->
+            <input placeholder="Title" name="add_title"/>
+            <input placeholder="Artist/Author/Director" name="add_artist"/>
+            <input placeholder="Year" name="add_year"/>
+            <input placeholder="Genre" name="add_genre"/>
+            <input placeholder="Finished? (Y/N)" name="add_status"/>
+            <button>Submit</button>
+        </form>
+    </div>
+  </body>
+</html>

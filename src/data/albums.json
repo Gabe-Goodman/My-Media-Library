@@ -1,0 +1,46 @@
+{
+    "albums": [
+    {
+        "title": "Shore",
+        "artist": "Fleet Foxes",
+        "released": 2020,
+        "genre": "Indie folk; chamber pop; folk rock",
+        "listened": "Y"
+    },
+    {
+        "title": "Ricky Music",
+        "artist": "Porches",
+        "released": 2020,
+        "genre": "Synth-pop",
+        "listened": "Y"
+    },
+    {
+        "title": "Reward",
+        "artist": "Cate le Bon",
+        "released": 2019,
+        "genre": "Art Pop",
+        "listened": "Y"
+    },
+    {
+        "title": "Have We Met",
+        "artist": "Destroyer",
+        "released": 2020,
+        "genre": "Alternative/Indie, Rock",
+        "listened": "Y"
+    },
+    {
+        "title": "Wicked City",
+        "artist": "Jockstrap",
+        "released": 2020,
+        "genre": "Alternative/Indie",
+        "listened": "Y"
+    },
+    {
+        "title": "Wicked City",
+        "artist": "Jockstrap",
+        "released": 2020,
+        "genre": "Alternative/Indie",
+        "listened": "Y"
+    }
+]
+}
