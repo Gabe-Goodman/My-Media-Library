@@ -1,7 +1,5 @@
 # My Media Library
 
----
-
 *REST API executed using Express, Node.js, PostgreSQL, Knex.js*
 
 <div>
@@ -40,8 +38,6 @@
 - Only **POST, GET** requests are able to be sent from an HTML form element
 
 # Try It Out
-
----
 
 Clone the app from github and (on node) run `npm install` to install the required dependencies.
 
