@@ -47,7 +47,7 @@ You will need to configure the connection in knexfile.js at the project root.
 
 <img alt="Knexfile.js" src="https://github.com/Gabe-Goodman/My-Media-Library/blob/972aa4505e37edb63f2e0275af9beac0813da17a/screenshots/knexfile.png" height="200" />
 
-### **Back end scripts**
+### **Scripts**
 
 You may wish to run these in a separate terminal from the back end scripts during development
 
@@ -55,6 +55,6 @@ You may wish to run these in a separate terminal from the back end scripts durin
 
 `knex migrate:latest` runs knex migrations
 
-`npm start` starts the backend server and seeds migrations
+`npm run start` starts the backend server and seeds migrations, frontend available on http://localhost:3000/
 
 Recommended: [JSONVue](https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc) or other JSON formatting extension
