@@ -4,12 +4,11 @@
 
 *REST API executed using Express, Node.js, PostgreSQL, Knex.js*
 
-<img src="https://github.com/Gabe-Goodman/My-Media-Library/blob/972aa4505e37edb63f2e0275af9beac0813da17a/screenshots/books.png" width="200" />
-![Front-end example](https://github.com/Gabe-Goodman/My-Media-Library/blob/972aa4505e37edb63f2e0275af9beac0813da17a/screenshots/books.png)
+<img alt="Front-end example" "src="https://github.com/Gabe-Goodman/My-Media-Library/blob/972aa4505e37edb63f2e0275af9beac0813da17a/screenshots/frontend.png" width="400" />
 
-![Movies results]()
+<img alt="Book results snippet" "src="https://github.com/Gabe-Goodman/My-Media-Library/blob/972aa4505e37edb63f2e0275af9beac0813da17a/screenshots/books.png" width="200" />
 
-![Books results]()
+<img alt="Movie results snippet" "src="https://github.com/Gabe-Goodman/My-Media-Library/blob/972aa4505e37edb63f2e0275af9beac0813da17a/screenshots/movies.png" width="200" />
 
 ## Backend
 
