@@ -37,7 +37,7 @@
 - **Form inputs** serve as query parameters (see resulting URL)
 - Only **POST, GET** requests are able to be sent from an HTML form element
 
-# Try It Out
+# Installation
 
 Clone the app from github and (on node) run `npm install` to install the required dependencies.
 
