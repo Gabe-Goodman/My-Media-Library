@@ -49,8 +49,6 @@ You will need to configure the connection in knexfile.js at the project root.
 
 ### **Scripts**
 
-You may wish to run these in a separate terminal from the back end scripts during development
-
 `knex seed:run` seeds database
 
 `knex migrate:latest` runs knex migrations
