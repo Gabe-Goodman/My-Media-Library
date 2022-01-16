@@ -9,6 +9,12 @@
 </div>
 </div>
 
+## Frontend
+
+- **Static web pages** served using Express.static( )
+- **Form inputs** serve as query parameters (see resulting URL)
+- Only **POST, GET** requests can be sent from an HTML form element
+
 ## Backend
 
 - **Knex.js** to establish the connection to the database
@@ -30,12 +36,6 @@
     - **/find-media ———** **R**ead new media entry
     - **/update-media  — U**pdate media entry
     - **/remove-media — D**elete media entry
-
-## Frontend
-
-- **Static web pages** served using Express.static( )
-- **Form inputs** serve as query parameters (see resulting URL)
-- Only **POST, GET** requests are able to be sent from an HTML form element
 
 ## Installation
 
