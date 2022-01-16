@@ -45,6 +45,23 @@ Create a local PostgreSQL database “my_media_library”.
 
 You will need to configure the connection in knexfile.js at the project root.
 
+`module.exports = {
+  development: {
+    client: 'postgresql',
+    connection: {
+      database: 'my_media_library',
+      user: 'username',
+      password: 'password',
+    },
+    seeds: {
+      directory: './knex/seeds',
+    },
+    migrations: {
+      directory: './knex/migrations',
+    },
+  },
+};`
+
 <img alt="Knexfile.js" src="https://github.com/Gabe-Goodman/My-Media-Library/blob/972aa4505e37edb63f2e0275af9beac0813da17a/screenshots/knexfile.png" height="200" />
 
 ### **Scripts**
