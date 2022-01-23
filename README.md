@@ -1,5 +1,7 @@
 # My Media Library
 
+This was created during my time as a student at Code Chrysalis.
+
 *REST API executed using Express, Node.js, PostgreSQL, Knex.js*
 
 <div>
